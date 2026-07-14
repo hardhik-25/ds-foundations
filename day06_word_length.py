@@ -15,4 +15,4 @@ def list_dict(words):
         result[word]=len(word)
     print(result)
 
-main(["cat", "elephant", "dog"])
+print(main(["cat", "elephant", "dog"]))
